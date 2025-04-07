@@ -1,6 +1,4 @@
-# Manga Translator
-
-ALL CREDITS TO [@Detopall](https://github.com/Detopall)
+# Manga TRUEslator
 
 ## Table of Contents
 
