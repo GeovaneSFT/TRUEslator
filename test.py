@@ -131,15 +131,15 @@ def process_images_in_directory(directory_path):
 
             # Salva a imagem com as traduções e modificações
             result_image = Image.fromarray(image, 'RGB')
-            result_image.save(f"translated_{filename}")
+            result_image.save(f"translated_pages/translated_{filename}")
 
             # Exibe a imagem traduzida
-            result_image = Image.open(f"translated_{filename}")
+            #result_image = Image.open(f"translated_pages/translated_{filename}")
             #result_image.thumbnail((800, 800))
             #result_image.show()
             #print(f"Imagem {filename} processada e salva como 'translated_{filename}'.")
 
-request = get_doujin(id=560273)
+request = get_doujin(id=99154)
 print(request)
 images = read_images(request["media_id"],request["num_pages"],request["page_list"])
 print(images)

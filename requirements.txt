@@ -2,8 +2,9 @@ ipykernel==6.29.4
 pillow==10.3.0
 ultralytics==8.3.78
 manga-ocr==0.1.14
-googletrans
+googletrans==4.0.2
 deep-translator==1.11.4
-fastapi
+fastapi[standard]
 uvicorn==0.30.0
 torch==2.6.0
+python-dotenv==1.0.1
