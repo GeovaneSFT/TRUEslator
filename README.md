@@ -1,7 +1,5 @@
 # TRUEslator - Tradutor de Mangá
 
-Créditos originais para [@Detopall](https://github.com/Detopall)
-
 ## Índice
 
 - [TRUEslator - Tradutor de Mangá](#trueslator---tradutor-de-mangá)
